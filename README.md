@@ -48,7 +48,7 @@ ollama -v
 
 After installing Ollama, enter the following command to create the model.
 ```bash
-ollama create llama3cosmic -f modelfile.txt
+ollama create llama3qna -f modelfile.txt
 ```
 The modelfile.txt file can be found in the repository.
 

@@ -11,7 +11,7 @@ For this project, I collected a public dataset from the **Correctional Service D
 
 ## Fine-Tuning Process
 
-I used the **LLaMA3** model and the **Unsloth** library to fine-tune the model. All the necessary code and explanations are available in my Google Colab notebook. [[Link to Google Colab](https://colab.research.google.com/drive/1LSHzuMpnCppHdYW_7ii-R2pDiUMtrJxB?usp=drive_link)](#)
+I used the **LLaMA3** model and the **Unsloth** library to fine-tune the model. All the necessary code and explanations are available in my Google Colab notebook. [[Link to Google Colab](https://colab.research.google.com/drive/1QIFZjDFZUzxDt09uA-ZrwYCMmKNDcBv0?usp=drive_link))]
 
 **Tools Used:**
 - **LLaMA3**: A powerful language model for fine-tuning.

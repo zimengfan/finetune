@@ -34,7 +34,7 @@ Git LFS initialized
 ### Step 2: Git LFS Clone the model
 Enter the following command to clone the model from hugging face.
 ```bash
-git lfs clone https://huggingface.co/ZEGMEG/llama3-8b-qna-f16-gguf model
+git lfs clone https://huggingface.co/ZEGMEG/llama3-8b-document-f16-gguf model
 ```
 It will take a while.
 
@@ -48,7 +48,7 @@ ollama -v
 
 After installing Ollama, enter the following command to create the model.
 ```bash
-ollama create llama3qna -f modelfile.txt
+ollama create llama3doc -f modelfile.txt
 ```
 The modelfile.txt file can be found in the repository.
 
@@ -61,5 +61,5 @@ And you should be able to see the model name "llama3qna".
 ### Step 4: Run the model
 After all installation is done, we can now run the model by entering:
 ```bash
-ollama run llama3qna
+ollama run llama3doc
 ```
